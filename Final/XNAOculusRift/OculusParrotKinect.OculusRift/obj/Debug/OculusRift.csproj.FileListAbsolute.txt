@@ -1,0 +1,26 @@
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.pdb
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.OculusRift.OculusResource.resources
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Bami\Desktop\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.pdb
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.pdb
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.OculusRift.OculusResource.resources
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Jonas\Desktop\Oculus Stuff\XNA OVR Tutorial\OVR_XNA4.0_Sample_With_OR\OVR_XNA4.0_Sample_With_OR\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.pdb
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\OculusParrotKinect.OculusRift.pdb
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.OculusRift.OculusResource.resources
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusRift.csproj.GenerateResource.Cache
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.dll
+C:\Users\Jonas\Desktop\git\GDV-Projekt\FlyHigh.final\XNAOculusRift\OculusParrotKinect.OculusRift\obj\Debug\OculusParrotKinect.OculusRift.pdb

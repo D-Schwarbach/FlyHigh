@@ -1,0 +1,9 @@
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.pdb
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\Microsoft.Xna.Framework.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\Microsoft.Xna.Framework.xml
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csproj.GenerateResource.Cache
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.pdb
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.OculusRift.OculusResource.resources
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csprojResolveAssemblyReference.cache
